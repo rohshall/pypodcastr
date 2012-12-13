@@ -3,9 +3,7 @@ pypodcastr
 
 Podcast client in Python 3
 
-You need to install the following packages:  
-
-* feedparser
+You need to install feedparser (http://packages.python.org/feedparser/).
 
 I recommend pip to install it.
 
