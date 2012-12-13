@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss 
+    xmlns:media="http://search.yahoo.com/mrss/" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+    xmlns:ppg="http://bbc.co.uk/2009/01/ppgRss" 
+    xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Newshour</title>
+        <link>http://www.bbc.co.uk/worldservice/news/2009/03/000000_newshour.shtml</link>
+        <description>Global news and analysis from the BBC World Service, twice a day, every day of the year.  Join our leading team of presenters for the best interviews, features and analysis of world events.</description>
+        <itunes:summary>Global news and analysis from the BBC World Service, twice a day, every day of the year.  Join our leading team of presenters for the best interviews, features and analysis of world events.</itunes:summary>
+        <itunes:author>BBC World Service</itunes:author>
+        <itunes:owner>
+            <itunes:name>BBC</itunes:name>
+            <itunes:email>podcast.support@bbc.co.uk</itunes:email>
+        </itunes:owner>
+        <language>en-gb</language>
+        <ppg:systemRef systemId="pid.brand" key="p002vsnk" />
+        <ppg:systemRef systemId="pid.brand" key="p00pcj5w" />
+        <ppg:systemRef systemId="pid.genre" key="C00079" />
+        <ppg:network id="worldservice" name="BBC World Service" />
+        <ppg:seriesDetails typicalDuration="PT50M" active="true" public="true" region="all" launchDate="2010-02-09" frequency="daily" daysLive="7" liveItems="13" />
+        <image>
+            <url>http://www.bbc.co.uk/podcasts/assets/artwork/newshour.jpg</url>
+            <title>Newshour</title>
+            <link>http://www.bbc.co.uk/worldservice/news/2009/03/000000_newshour.shtml</link>
+        </image>
+        <itunes:image href="http://www.bbc.co.uk/podcasts/assets/artwork/newshour.jpg" />
+        <copyright>(C) BBC 2012</copyright>
+        <pubDate>Wed, 12 Dec 2012 22:00:03 +0000</pubDate>
+        <itunes:category text="News &amp; Politics" />
+        <itunes:keywords>Global news, analysis, BBC, World Service</itunes:keywords>
+        <media:keywords>Global news, analysis, BBC, World Service</media:keywords>
+        <itunes:explicit>no</itunes:explicit>
+        <media:rating scheme="urn:simple">nonadult</media:rating>
+        <atom:link href="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/rss.xml" rel="self" type="application/rss+xml" />
+        <item>
+            <title>Newshour: Finucane report shock: 12 Dec 12</title>
+            <description>Report finds “shocking” state collusion in Finucane murder; US backs Syrian opposition; Ravi Shankar mourned.</description>
+            <itunes:subtitle>Report finds “shocking” state collusion in Finucane murder; US backs Syrian opposition; Ravi Shankar mourned....</itunes:subtitle>
+            <itunes:summary>Report finds “shocking” state collusion in Finucane murder; US backs Syrian opposition; Ravi Shankar mourned.</itunes:summary>
+            <pubDate>Wed, 12 Dec 2012 14:00:00 +0000</pubDate>
+            <itunes:duration>50:26</itunes:duration>
+            <enclosure url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121212-1400a.mp3" length="24255966" type="audio/mpeg" />
+            <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121212-1400.mp3</guid>
+            <link>http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121212-1400a.mp3</link>
+            <media:content url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121212-1400a.mp3" fileSize="24255966" type="audio/mpeg" medium="audio" expression="full" duration="3026" />
+            <itunes:author>BBC World Service</itunes:author>
+        </item>
+        <item>
+            <title>Newshour: Egyptians protest for and against Morsi 11 Dec 12</title>
+            <description>Egypt protests; Karmapa Lama condemns self-immolation; are 'meggings' just wrong?</description>
+            <itunes:subtitle>Egypt protests; Karmapa Lama condemns self-immolation; are 'meggings' just wrong?...</itunes:subtitle>
+            <itunes:summary>Egypt protests; Karmapa Lama condemns self-immolation; are 'meggings' just wrong?</itunes:summary>
+            <pubDate>Tue, 11 Dec 2012 22:10:00 +0000</pubDate>
+            <itunes:duration>50:17</itunes:duration>
+            <enclosure url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121211-2210a.mp3" length="24183235" type="audio/mpeg" />
+            <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121211-2210.mp3</guid>
+            <link>http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121211-2210a.mp3</link>
+            <media:content url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121211-2210a.mp3" fileSize="24183235" type="audio/mpeg" medium="audio" expression="full" duration="3017" />
+            <itunes:author>BBC World Service</itunes:author>
+        </item>
+        <item>
+            <title>Newshour: Cairo's rival protests   11 Dec 12</title>
+            <description>Cairo's rival protests; women failed by Afghan justice; and English cultural lessons for foreign footballers.</description>
+            <itunes:subtitle>Cairo's rival protests; women failed by Afghan justice; and English cultural lessons for foreign footballers....</itunes:subtitle>
+            <itunes:summary>Cairo's rival protests; women failed by Afghan justice; and English cultural lessons for foreign footballers.</itunes:summary>
+            <pubDate>Tue, 11 Dec 2012 15:17:00 +0000</pubDate>
+            <itunes:duration>50:07</itunes:duration>
+            <enclosure url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121211-1517a.mp3" length="24101060" type="audio/mpeg" />
+            <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121211-1517.mp3</guid>
+            <link>http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121211-1517a.mp3</link>
+            <media:content url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121211-1517a.mp3" fileSize="24101060" type="audio/mpeg" medium="audio" expression="full" duration="3007" />
+            <itunes:author>BBC World Service</itunes:author>
+        </item>
+        <item>
+            <title>Newshour: DSK NY Case Settled 10 Dec 12</title>
+            <description>DSK settles his lawsuit with a hotel maid; Rached Ghannouchi defines moderate islam; Ukrainians await the end of the world.</description>
+            <itunes:subtitle>DSK settles his lawsuit with a hotel maid; Rached Ghannouchi defines moderate islam; Ukrainians await the end of the world....</itunes:subtitle>
+            <itunes:summary>DSK settles his lawsuit with a hotel maid; Rached Ghannouchi defines moderate islam; Ukrainians await the end of the world.</itunes:summary>
+            <pubDate>Mon, 10 Dec 2012 22:15:00 +0000</pubDate>
+            <itunes:duration>50:22</itunes:duration>
+            <enclosure url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121210-2215a.mp3" length="24222314" type="audio/mpeg" />
+            <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121210-2215.mp3</guid>
+            <link>http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121210-2215a.mp3</link>
+            <media:content url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121210-2215a.mp3" fileSize="24222314" type="audio/mpeg" medium="audio" expression="full" duration="3022" />
+            <itunes:author>BBC World Service</itunes:author>
+        </item>
+        <item>
+            <title>Newshour: Australian prank DJs heartbroken  10 Dec 12</title>
+            <description>Australian prank DJs heartbroken; Tunisian revolution revisited; and former Thai PM.</description>
+            <itunes:subtitle>Australian prank DJs heartbroken; Tunisian revolution revisited; and former Thai PM....</itunes:subtitle>
+            <itunes:summary>Australian prank DJs heartbroken; Tunisian revolution revisited; and former Thai PM.</itunes:summary>
+            <pubDate>Mon, 10 Dec 2012 16:04:00 +0000</pubDate>
+            <itunes:duration>50:30</itunes:duration>
+            <enclosure url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121210-1604a.mp3" length="24286524" type="audio/mpeg" />
+            <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121210-1604.mp3</guid>
+            <link>http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121210-1604a.mp3</link>
+            <media:content url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121210-1604a.mp3" fileSize="24286524" type="audio/mpeg" medium="audio" expression="full" duration="3030" />
+            <itunes:author>BBC World Service</itunes:author>
+        </item>
+        <item>
+            <title>Newshour: Egypt Crisis 09 Dec 12</title>
+            <description>Egypt opposition shuns Morsi move, Ghana opposition alleges vote fraud, Sir Patrick Moore dies</description>
+            <itunes:subtitle>Egypt opposition shuns Morsi move, Ghana opposition alleges vote fraud, Sir Patrick Moore dies...</itunes:subtitle>
+            <itunes:summary>Egypt opposition shuns Morsi move, Ghana opposition alleges vote fraud, Sir Patrick Moore dies</itunes:summary>
+            <pubDate>Sun, 09 Dec 2012 22:00:00 +0000</pubDate>
+            <itunes:duration>50:28</itunes:duration>
+            <enclosure url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121209-2200a.mp3" length="24268939" type="audio/mpeg" />
+            <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121209-2200.mp3</guid>
+            <link>http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121209-2200a.mp3</link>
+            <media:content url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121209-2200a.mp3" fileSize="24268939" type="audio/mpeg" medium="audio" expression="full" duration="3028" />
+            <itunes:author>BBC World Service</itunes:author>
+        </item>
+        <item>
+            <title>Newshour: Egyptian president annuls controversial decree 09 Dec 12</title>
+            <description>Egypt's Morsi drops decree; Terry Waite visits kidnap site; amputees Libya's most eligible</description>
+            <itunes:subtitle>Egypt's Morsi drops decree; Terry Waite visits kidnap site; amputees Libya's most eligible...</itunes:subtitle>
+            <itunes:summary>Egypt's Morsi drops decree; Terry Waite visits kidnap site; amputees Libya's most eligible</itunes:summary>
+            <pubDate>Sun, 09 Dec 2012 13:00:00 +0000</pubDate>
+            <itunes:duration>50:14</itunes:duration>
+            <enclosure url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121209-1300a.mp3" length="24159242" type="audio/mpeg" />
+            <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121209-1300.mp3</guid>
+            <link>http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121209-1300a.mp3</link>
+            <media:content url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121209-1300a.mp3" fileSize="24159242" type="audio/mpeg" medium="audio" expression="full" duration="3014" />
+            <itunes:author>BBC World Service</itunes:author>
+        </item>
+        <item>
+            <title>Newshour: John McAfee interview 08 Dec 12</title>
+            <description>Interview with John McAfee; Berlusconi plans return to politics; Doha climate talks end</description>
+            <itunes:subtitle>Interview with John McAfee; Berlusconi plans return to politics; Doha climate talks end...</itunes:subtitle>
+            <itunes:summary>Interview with John McAfee; Berlusconi plans return to politics; Doha climate talks end</itunes:summary>
+            <pubDate>Sat, 08 Dec 2012 21:54:00 +0000</pubDate>
+            <itunes:duration>50:28</itunes:duration>
+            <enclosure url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121208-2154a.mp3" length="24266418" type="audio/mpeg" />
+            <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121208-2154.mp3</guid>
+            <link>http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121208-2154a.mp3</link>
+            <media:content url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121208-2154a.mp3" fileSize="24266418" type="audio/mpeg" medium="audio" expression="full" duration="3028" />
+            <itunes:author>BBC World Service</itunes:author>
+        </item>
+        <item>
+            <title>Newshour: Exiled Hamas leader visits Gaza 08 Dec 12</title>
+            <description>Thousands attend Hamas rally; Burma apologises to monks; mystery butchers hit French cows.</description>
+            <itunes:subtitle>Thousands attend Hamas rally; Burma apologises to monks; mystery butchers hit French cows....</itunes:subtitle>
+            <itunes:summary>Thousands attend Hamas rally; Burma apologises to monks; mystery butchers hit French cows.</itunes:summary>
+            <pubDate>Sat, 08 Dec 2012 13:00:00 +0000</pubDate>
+            <itunes:duration>50:23</itunes:duration>
+            <enclosure url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121208-1300c.mp3" length="24229317" type="audio/mpeg" />
+            <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121208-1300.mp3</guid>
+            <link>http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121208-1300c.mp3</link>
+            <media:content url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121208-1300c.mp3" fileSize="24229317" type="audio/mpeg" medium="audio" expression="full" duration="3023" />
+            <itunes:author>BBC World Service</itunes:author>
+        </item>
+        <item>
+            <title>Newshour: Royal hoax call nurse found dead   07 Dec 12</title>
+            <description>Royal hoax call nurse found dead; Clinton in N Ireland amid violence; and ancient Greek answers for austerity</description>
+            <itunes:subtitle>Royal hoax call nurse found dead; Clinton in N Ireland amid violence; and ancient Greek answers for austerity...</itunes:subtitle>
+            <itunes:summary>Royal hoax call nurse found dead; Clinton in N Ireland amid violence; and ancient Greek answers for austerity</itunes:summary>
+            <pubDate>Fri, 07 Dec 2012 22:12:00 +0000</pubDate>
+            <itunes:duration>50:21</itunes:duration>
+            <enclosure url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121207-2212a.mp3" length="24209474" type="audio/mpeg" />
+            <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121207-2212.mp3</guid>
+            <link>http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121207-2212a.mp3</link>
+            <media:content url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121207-2212a.mp3" fileSize="24209474" type="audio/mpeg" medium="audio" expression="full" duration="3021" />
+            <itunes:author>BBC World Service</itunes:author>
+        </item>
+        <item>
+            <title>Newshour: Hamas leader visits Gaza; 07 Dec 12</title>
+            <description>Exiled Hamas leader enters Gaza; Admiral Mike Mullen on US military success; hareem soap opera raises eyebrows in Turkey</description>
+            <itunes:subtitle>Exiled Hamas leader enters Gaza; Admiral Mike Mullen on US military success; hareem soap opera raises eyebrows in Turkey...</itunes:subtitle>
+            <itunes:summary>Exiled Hamas leader enters Gaza; Admiral Mike Mullen on US military success; hareem soap opera raises eyebrows in Turkey</itunes:summary>
+            <pubDate>Fri, 07 Dec 2012 15:27:00 +0000</pubDate>
+            <itunes:duration>50:21</itunes:duration>
+            <enclosure url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121207-1527a.mp3" length="24212694" type="audio/mpeg" />
+            <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121207-1527.mp3</guid>
+            <link>http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121207-1527a.mp3</link>
+            <media:content url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121207-1527a.mp3" fileSize="24212694" type="audio/mpeg" medium="audio" expression="full" duration="3021" />
+            <itunes:author>BBC World Service</itunes:author>
+        </item>
+        <item>
+            <title>Newshour: NY subway photographer speaks   06 Dec 12</title>
+            <description>NY subway photographer speaks; McAfee on the run; and drugs</description>
+            <itunes:subtitle>NY subway photographer speaks; McAfee on the run; and drugs...</itunes:subtitle>
+            <itunes:summary>NY subway photographer speaks; McAfee on the run; and drugs</itunes:summary>
+            <pubDate>Thu, 06 Dec 2012 22:04:00 +0000</pubDate>
+            <itunes:duration>50:18</itunes:duration>
+            <enclosure url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121206-2204a.mp3" length="24191096" type="audio/mpeg" />
+            <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121206-2204.mp3</guid>
+            <link>http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121206-2204a.mp3</link>
+            <media:content url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121206-2204a.mp3" fileSize="24191096" type="audio/mpeg" medium="audio" expression="full" duration="3018" />
+            <itunes:author>BBC World Service</itunes:author>
+        </item>
+        <item>
+            <title>Newshour: Architect Niemeyer dies 06 Dec 12</title>
+            <description>Brazilian architect Oscar Niemeyer remembered, tanks deployed in Cairo, and protecting Africa's displaced</description>
+            <itunes:subtitle>Brazilian architect Oscar Niemeyer remembered, tanks deployed in Cairo, and protecting Africa's displaced...</itunes:subtitle>
+            <itunes:summary>Brazilian architect Oscar Niemeyer remembered, tanks deployed in Cairo, and protecting Africa's displaced</itunes:summary>
+            <pubDate>Thu, 06 Dec 2012 15:14:00 +0000</pubDate>
+            <itunes:duration>50:25</itunes:duration>
+            <enclosure url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121206-1514a.mp3" length="24243071" type="audio/mpeg" />
+            <guid isPermaLink="false">http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121206-1514.mp3</guid>
+            <link>http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121206-1514a.mp3</link>
+            <media:content url="http://downloads.bbc.co.uk/podcasts/worldservice/newshour/newshour_20121206-1514a.mp3" fileSize="24243071" type="audio/mpeg" medium="audio" expression="full" duration="3025" />
+            <itunes:author>BBC World Service</itunes:author>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,2 @@
+http://downloads.bbc.co.uk/podcasts/worldservice/newshour/rss.xml
+http://downloads.bbc.co.uk/podcasts/radio4/analysis/rss.xml
